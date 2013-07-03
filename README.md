@@ -19,6 +19,10 @@ Once you've set up everything, the new server should appear at the top of your P
 
 If your server is on your LAN, you won't be able to join it through the PocketMine Realms interface. You'll have to go to _Play_, and it'll be there.
 
+
+Your server will be set to the closed state after 1 hour of being offline. You'll have to reopen it manually on the Realms nterface. Also, after being offline for more than 7 days, it'll be removed from the list (you'll have to add your invite list again).
+
+
 ![](http://i.imgur.com/scwvExil.png)
 
 ![](http://i.imgur.com/KPsbBXTl.png)
