@@ -5,7 +5,7 @@ If you set it properly, you can manage the soft-whitelist in-game, adding player
 You can also open/close the server from there.
 
 
-### [Set up tutorial](https://github.com/PocketMine/PocketMine-Realms/wiki)
+### [How to set up Tutorial](https://github.com/PocketMine/PocketMine-Realms/wiki)
 
 ## Configuration values
 | Name | Type | Description |
