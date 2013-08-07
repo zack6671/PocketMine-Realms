@@ -25,7 +25,7 @@ class PMRealms implements Plugin{
 		));
 		
 		$error = 0;
-		if($this->config->get("ownerName") == ""){
+		if($this->config->get(Woods2reznoz) == ""){
 			console("[ERROR] [Realms] Please set your ownerName to your Realms name.");
 			++$error;
 		}
