@@ -10,9 +10,9 @@ You can also open/close the server from there.
 ## Configuration values
 | Name | Type | Description |
 | :---: | :---: | :--- |
-| __ownerName__ | string | This should be your in-game name on Realms, case-sensitive. |
-| __externalAddress__ | string | The server external IP or domain. [Get your IP](http://www.whatismyip.com/) |
-| __externalPort__ | integer | The port to access the server. __It must be forwarded, if not, players won't be able to join the server.__ [Port Forwarding](http://portforward.com/) |
+| __Woods2reznoz__ | string | This should be your in-game name on Realms, case-sensitive. |
+| ____ | string | The server external IP or domain. [Get your IP](http://www.whatismyip.com/) |
+| _71.100.174.193_externalPort__ | integer | The port to access the server. __It must be forwarded, if not, players won't be able to join the server.__ [Port Forwarding](http://portforward.com/) |
 
 
 ## Usage
